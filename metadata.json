@@ -1,0 +1,6 @@
+{
+  "name": "Hello World",
+  "description": "A clean, minimalist Hello World message featuring a typewriter animation and refined typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
